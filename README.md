@@ -46,7 +46,7 @@ ASTRA (**Automated Smart Tracking & Robotics for Warehousing**) is a smart robot
 ## 📸 Project Visuals
 
 ### 🔌 Circuit Diagram
-![Circuit Diagram](Astra_V2\images/Circuit.png)
+![Circuit Diagram](Astra_V2/images/Circuit.png)
 
 ### 🤖 Robot Photo
 ![Robot Photo](Astra_V2/images/Astra.png)
