@@ -60,7 +60,7 @@ ASTRA (**Automated Smart Tracking & Robotics for Warehousing**) is a smart robot
 - Connect the **HC-05 Bluetooth module** to the correct TX/RX pins and pair it using your system’s Bluetooth settings. Select the **correct COM port** in your app.
 - **Do not overcharge the batteries** — use a reliable charging circuit and battery protection board.
 - To generate your own QR codes, download the QR system from my separate repository:
-  🔗 [QR Code Generator Repo](https://github.com/pritam-t/QR-System) 
+- 🔗 [QR Code Generator Repo](https://github.com/pritam-t/QR-System) 
 
 ---
 
